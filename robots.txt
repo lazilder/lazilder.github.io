@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lazilder.github.io/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/app/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/assets/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/css/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/includes/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/item/lazilder.txt.gz
+Sitemap: https://lazilder.github.io/src/lazilder.txt.gz
